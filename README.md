@@ -1,1 +1,2 @@
-# Sandbox Addon Development Kit
+# Shows the info of the block currently seen
+
